@@ -1,0 +1,6 @@
+{
+  "name": "xiaok-final",
+  "version": "1.0.0",
+  "description": "小K · KOC 社媒成长 Agent",
+  "engines": { "node": ">=18" }
+}
